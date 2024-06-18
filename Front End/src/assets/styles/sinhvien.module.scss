@@ -1,0 +1,21 @@
+.edit{
+    margin-right: 10px;
+    margin-left: 15px;
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.delete{
+    font-size: 25px;
+    cursor: pointer;
+}
+
+.dropzone{
+    text-align: center;
+    cursor: pointer;
+    transition: all 0.5s ease-in-out;
+
+    &:hover{
+        transform: translateX(20px);
+    }
+}

@@ -1,0 +1,21 @@
+.top{
+    transform: translateY(70px);
+    
+}
+
+.width{
+    max-width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.center{
+    min-width: 450px;
+    background-color: transparent;
+    color: white;
+}
+
+.right{
+    margin-right: 10px;
+    margin-left: 40px;
+}
